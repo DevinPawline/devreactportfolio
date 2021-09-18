@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/devreactportfolio/static/css/main.638f3841.chunk.css",
+    "main.css": "/devreactportfolio/static/css/main.2b11b69e.chunk.css",
     "main.js": "/devreactportfolio/static/js/main.7d824163.chunk.js",
     "main.js.map": "/devreactportfolio/static/js/main.7d824163.chunk.js.map",
     "runtime-main.js": "/devreactportfolio/static/js/runtime-main.378558f1.js",
@@ -10,15 +10,15 @@
     "static/js/2.76e5ad98.chunk.js.map": "/devreactportfolio/static/js/2.76e5ad98.chunk.js.map",
     "index.html": "/devreactportfolio/index.html",
     "static/css/2.7fc9bc2b.chunk.css.map": "/devreactportfolio/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.638f3841.chunk.css.map": "/devreactportfolio/static/css/main.638f3841.chunk.css.map",
+    "static/css/main.2b11b69e.chunk.css.map": "/devreactportfolio/static/css/main.2b11b69e.chunk.css.map",
     "static/js/2.76e5ad98.chunk.js.LICENSE.txt": "/devreactportfolio/static/js/2.76e5ad98.chunk.js.LICENSE.txt",
-    "static/media/images.css": "/devreactportfolio/static/media/ReadMeGenerator.6187e46f.png"
+    "static/media/images.css": "/devreactportfolio/static/media/Selfie.a217763c.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.378558f1.js",
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.76e5ad98.chunk.js",
-    "static/css/main.638f3841.chunk.css",
+    "static/css/main.2b11b69e.chunk.css",
     "static/js/main.7d824163.chunk.js"
   ]
 }
