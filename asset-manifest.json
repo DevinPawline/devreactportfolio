@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/employeedirectory/static/css/main.f008fc0b.chunk.css",
-    "main.js": "/employeedirectory/static/js/main.6291e078.chunk.js",
-    "main.js.map": "/employeedirectory/static/js/main.6291e078.chunk.js.map",
-    "runtime-main.js": "/employeedirectory/static/js/runtime-main.5b1b7441.js",
-    "runtime-main.js.map": "/employeedirectory/static/js/runtime-main.5b1b7441.js.map",
-    "static/css/2.7fc9bc2b.chunk.css": "/employeedirectory/static/css/2.7fc9bc2b.chunk.css",
-    "static/js/2.76e5ad98.chunk.js": "/employeedirectory/static/js/2.76e5ad98.chunk.js",
-    "static/js/2.76e5ad98.chunk.js.map": "/employeedirectory/static/js/2.76e5ad98.chunk.js.map",
-    "index.html": "/employeedirectory/index.html",
-    "static/css/2.7fc9bc2b.chunk.css.map": "/employeedirectory/static/css/2.7fc9bc2b.chunk.css.map",
-    "static/css/main.f008fc0b.chunk.css.map": "/employeedirectory/static/css/main.f008fc0b.chunk.css.map",
-    "static/js/2.76e5ad98.chunk.js.LICENSE.txt": "/employeedirectory/static/js/2.76e5ad98.chunk.js.LICENSE.txt",
-    "static/media/images.css": "/employeedirectory/static/media/EmployeeTracker.b6bcdf6a.png"
+    "main.css": "/devreactportfolio/static/css/main.d797f49d.chunk.css",
+    "main.js": "/devreactportfolio/static/js/main.6291e078.chunk.js",
+    "main.js.map": "/devreactportfolio/static/js/main.6291e078.chunk.js.map",
+    "runtime-main.js": "/devreactportfolio/static/js/runtime-main.378558f1.js",
+    "runtime-main.js.map": "/devreactportfolio/static/js/runtime-main.378558f1.js.map",
+    "static/css/2.7fc9bc2b.chunk.css": "/devreactportfolio/static/css/2.7fc9bc2b.chunk.css",
+    "static/js/2.76e5ad98.chunk.js": "/devreactportfolio/static/js/2.76e5ad98.chunk.js",
+    "static/js/2.76e5ad98.chunk.js.map": "/devreactportfolio/static/js/2.76e5ad98.chunk.js.map",
+    "index.html": "/devreactportfolio/index.html",
+    "static/css/2.7fc9bc2b.chunk.css.map": "/devreactportfolio/static/css/2.7fc9bc2b.chunk.css.map",
+    "static/css/main.d797f49d.chunk.css.map": "/devreactportfolio/static/css/main.d797f49d.chunk.css.map",
+    "static/js/2.76e5ad98.chunk.js.LICENSE.txt": "/devreactportfolio/static/js/2.76e5ad98.chunk.js.LICENSE.txt",
+    "static/media/images.css": "/devreactportfolio/static/media/EmployeeTracker.b6bcdf6a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.5b1b7441.js",
+    "static/js/runtime-main.378558f1.js",
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.76e5ad98.chunk.js",
-    "static/css/main.f008fc0b.chunk.css",
+    "static/css/main.d797f49d.chunk.css",
     "static/js/main.6291e078.chunk.js"
   ]
 }
