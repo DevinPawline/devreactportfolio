@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/devreactportfolio/static/css/main.d797f49d.chunk.css",
-    "main.js": "/devreactportfolio/static/js/main.6291e078.chunk.js",
-    "main.js.map": "/devreactportfolio/static/js/main.6291e078.chunk.js.map",
+    "main.js": "/devreactportfolio/static/js/main.5c499357.chunk.js",
+    "main.js.map": "/devreactportfolio/static/js/main.5c499357.chunk.js.map",
     "runtime-main.js": "/devreactportfolio/static/js/runtime-main.378558f1.js",
     "runtime-main.js.map": "/devreactportfolio/static/js/runtime-main.378558f1.js.map",
     "static/css/2.7fc9bc2b.chunk.css": "/devreactportfolio/static/css/2.7fc9bc2b.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.7fc9bc2b.chunk.css",
     "static/js/2.76e5ad98.chunk.js",
     "static/css/main.d797f49d.chunk.css",
-    "static/js/main.6291e078.chunk.js"
+    "static/js/main.5c499357.chunk.js"
   ]
 }
