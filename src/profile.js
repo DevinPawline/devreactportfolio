@@ -9,7 +9,7 @@ const animation = {
 };
 // Change your display name on tha landing display
 const header = {
-  name: "a Human",
+  name: "Devin Pawline",
 };
 const background = {
   // Options: Snow or Particle
@@ -20,7 +20,7 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mauris nunc congue nisi vitae suscipit tellus mauris a diam. ",
+    "I am a Full-Stack Developer currently enrolled in a coding bootcamp at UNCC. I have a passion for new technologies and coding! ",
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
@@ -31,51 +31,51 @@ const skillsBar = [
     svg: "M0 32l34.9 395.8L191.5 480l157.6-52.2L384 32H0zm308.2 127.9H124.4l4.1 49.4h175.6l-13.6 148.4-97.9 27v.3h-1.1l-98.7-27.3-6-75.8h47.7L138 320l53.5 14.5 53.7-14.5 6-62.2H84.3L71.5 112.2h241.1l-4.4 47.7z",
     faClass: "fab fa-html5",
   },
-  {
-    name: "CSS3",
-    // svg: '',
-    faClass: "fab fa-css3",
-  },
+  // {
+  //   name: "CSS3",
+  //   // svg: '',
+  //   faClass: "fab fa-css3",
+  // },
   {
     name: "Javascript",
     // svg: '',
     faClass: "fab fa-js",
   },
-  {
-    name: "SASS",
-    // svg: '',
-    faClass: "fab fa-sass",
-  },
+  // {
+  //   name: "SASS",
+  //   // svg: '',
+  //   faClass: "fab fa-sass",
+  // },
   {
     name: "Node",
     // svg: '',
     faClass: "fab fa-node",
   },
-  {
-    name: "Python",
-    // svg: '',
-    faClass: "fab fa-python",
-  },
+  // {
+  //   name: "Python",
+  //   // svg: '',
+  //   faClass: "fab fa-python",
+  // },
   {
     name: "Java",
     // svg: '',
     faClass: "fab fa-java",
   },
-  {
-    name: "PHP",
-    // svg: '',
-    faClass: "fab fa-php",
-  },
+  // {
+  //   name: "PHP",
+  //   // svg: '',
+  //   faClass: "fab fa-php",
+  // },
   {
     name: "Database",
     // svg: '',
     faClass: "fas fa-database",
   },
-  {
-    name: "AWS",
-    // svg: '',
-    faClass: "fab fa-aws",
-  },
+  // {
+  //   name: "AWS",
+  //   // svg: '',
+  //   faClass: "fab fa-aws",
+  // },
 ];
 // Edit your projects, its name, your skills used to make it, and the url.
 // You can omit freely anything if you dont have it
@@ -85,23 +85,23 @@ const projects = [
   {
     // Add image in './styles/images.css' in #project1
     id: "project1",
-    name: "Project 1",
+    name: "Coding Quiz",
     skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    url: "https://github.com/DevinPawline/CodingQuiz",
   },
   {
     // Add image in './styles/images.css' in #project2
     id: "project2",
-    name: "Project 2",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "ECommerce Backend",
+    skills: ["MYSQL, Insomnia, Node"],
+    url: "https://github.com/DevinPawline/EcommerceBackend",
   },
   {
     // Add image in './styles/images.css' in #project3
     id: "project3",
-    name: "Project 3",
-    skills: ["HTML, CSS, JS"],
-    url: "https://github.com/kaustubhai",
+    name: "Employee Tracker",
+    skills: ["MYSQL, Node, JS"],
+    url: "https://github.com/DevinPawline/EmployeeTracker",
   },
   {
     // Add image in './styles/images.css' in #project4
