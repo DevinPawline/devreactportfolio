@@ -6,6 +6,10 @@ Using React create an updated portfolio including past projects, and also includ
 * [Questions](#questions)
 ### Video of Functionality:
 
+
+https://user-images.githubusercontent.com/79121046/133906462-a17b4956-1242-4d38-8a7d-922b9cbb95c2.mp4
+
+
 ### License:
 This project is licensed under:
 MIT
