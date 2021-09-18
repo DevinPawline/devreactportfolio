@@ -153,11 +153,9 @@ export {
   about,
   skillsBar,
   projects,
-  miscellaneous,
   contact,
   social,
   section2title,
   section3Title,
-  section4Title,
   section5Title,
 };
