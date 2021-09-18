@@ -20,7 +20,7 @@ const background = {
 const section2title = "About Me";
 const about = {
   paragraph:
-    "I am a Full-Stack Developer currently enrolled in a coding bootcamp at UNCC. I have a passion for new technologies and coding! ",
+    "I am a Full-Stack Developer currently enrolled in a coding bootcamp at UNCC. I have a passion for new technologies and coding! View some of my projects down below, click the name to view Repo for project!",
 };
 // Edit your skill and the percentage you know about it
 // To Add a skill, copy any one below and paste it after the last comma
@@ -138,17 +138,14 @@ const contact = {
 // Paste your respective social media links. You can omit any if you dont have it
 // Upload your resume in your drive, get the shaareable link and paste it in the resume section
 const social = {
-  github: "https://github.com",
-  // facebook: "https://facebook.com",
-  // twitter: "https://twitter.com",
-  // instagram: "https://instagram.com",
-  linkedin: "https://linkedin.com",
-  resume: "https://novoresume.com/",
+  github: "https://github.com/DevinPawline",
+  linkedin: "https://www.linkedin.com/in/devin-pawline/",
+  resume: "https://resume.io/r/lCTqSEZPM",
 };
 // Dont change anything here
 export {
   animation,
-  header,
+  header, 
   background,
   about,
   skillsBar,
